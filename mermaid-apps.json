@@ -1,7 +1,7 @@
 [
   {
     "app": "connects",
-    "link": "https://github.com/prohetamine/connects",
+    "link": "git@github.com:prohetamine/connects.git",
     "update": 0,
     "version": "0.0.1"
   }
