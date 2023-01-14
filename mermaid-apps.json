@@ -1,14 +1,4 @@
 [
-  {
-    "app": "connects",
-    "link": "git@github.com:prohetamine/connects.git",
-    "update": 0,
-    "version": "0.0.1"
-  },
-  {
-    "app": "token-stats",
-    "link": "git@github.com:prohetamine/token-stats.git",
-    "update": 0,
-    "version": "0.0.1"
-  }
+  "git@github.com:prohetamine/connects.git",
+  "git@github.com:prohetamine/token-stats.git"
 ]
