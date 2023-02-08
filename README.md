@@ -1,3 +1,3 @@
 # official
 
-[https://github.com/prohetamine/official](https://github.com/prohetamine/official?2)
+[install](mermaid-store://?search=https://github.com/prohetamine/official)
